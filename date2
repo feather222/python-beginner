@@ -1,1 +1,5 @@
-
+#常见变量类型
+int，float，str,bool
+#变量类型确定
+print(type(a))
+#变量类型转化
