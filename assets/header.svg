@@ -42,8 +42,8 @@
 
   <!-- 进度条 -->
   <rect x="72" y="230" width="380" height="14" rx="7" fill="#21262d"/>
-  <rect x="72" y="230" width="354" height="14" rx="7" fill="url(#bar)"/>
+  <rect x="72" y="230" width="367" height="14" rx="7" fill="url(#bar)"/>
   <text x="460" y="242" font-family="Consolas, monospace" font-size="16" fill="#8b949e">
-    28 / 30 天 · 93%
+    29 / 30 天 · 97%
   </text>
 </svg>
